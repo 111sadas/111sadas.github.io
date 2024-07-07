@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Zjh in Jekyll,Huzhou University, 2024
+* Zjh , Huzhou University, 2024
   
 Skills
 ======
