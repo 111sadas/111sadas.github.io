@@ -19,7 +19,7 @@ Welcome to my GitHub profile!I created this page on July 7, 2024, and started my
 
 ## 📫 How to reach me
 
-- [Email](15005147100.@163.com)
+- Email：15005147100.@163.com
 
 ## 💼 Skills
 
