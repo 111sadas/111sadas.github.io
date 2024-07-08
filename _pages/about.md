@@ -1,29 +1,28 @@
 ---
 permalink: /
-title: "Start my exploration"
+title: "Personal academic website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-ZJH
-Email: 15005147100@163.com
-Phone: +15005147100
 
-Education experience
+# Hi there, I'm Zhang Jia Hao👋
 
-computer technology postgraduate, HuZhou University.
-September 2024 - Present
+Welcome to my GitHub profile!I created this page on July 7, 2024, and started my journey of exploring scientific research. In the future, I will urge myself to make continuous progress and achieve success.
 
-Programming Languages
+## 🔭 What I'm working on
 
-Python: Proficient in scripting, data analysis, and web development using Django and Flask.
-Java: Experienced in building robust backend systems and Android applications.
-C++: Familiar with object-oriented programming and systems-level development.
+- 🌱 Computer Vision
+- 🔬 Deep Learning
+- 💻 3D
 
-Research Direction
+## 📫 How to reach me
 
-Artificial Intelligence and Machine Learning: Focused on developing algorithms for natural language processing and computer vision.
+- [Email](15005147100.@163.com)
 
-I created this page on July 7, 2024, and started my journey of exploring scientific research. In the future, I will urge myself to make continuous progress and achieve success.
+## 💼 Skills
+
+- Programming Languages: Python, Java, C++
+
 
